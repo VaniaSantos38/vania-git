@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Montserrat", sans-serif;
+}
+
+header{ 
+margin: 44px 0 144px 76px;
+}
+
+.link-header{
+    font-weight: 600px;
+    font-size: 20px;
+    line-height: 25px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-top: -15%;
+    margin-left: 2%;
+}
+.botão-header{
+   background: #6FBF44; 
+   color: #ffffff;
+   border: 2px solid #4CB538;
+   border-radius: 20.5px;
+   width: 90px;
+    height: 51px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 29px;
+   cursor: pointer;
+   margin-top: -5%;
+   margin-left: 20px;
+}
+.botão-header:hover{
+    background: #ADFF00;
+}
+
+
+
+.img-logo{
+    width: 568px; 
+    height: 500px;
+    margin-left: 100px;
+    margin-bottom: 124px;
+}
+.titulo-principal{
+     color: #515151;
+    font-size: 60px;
+    margin-left: 800px;
+    vertical-align: top;
+    font-weight: 900;
+   line-height: 122px;
+   margin-top: -30%;
+   position: relative;
+
+
+
+}
+.titulo-principal2{
+    color: #515151;
+    font-size: 40px;
+    margin-left: 800px;
+
+}
+p{
+    color: #848484;
+    font-size: 30px;
+    margin-left: 700px;
+     font-weight: 908;
+    line-height: 50px;
+    height: 493px;
+
+}
+.botão-main{
+background:#ADFF00;
+color: #ffffff;
+font-size: 25px;
+border-radius: 7px;
+cursor: pointer;
+border: #4CB538 solid 1px;
+margin-left: 900px;
+margin-top: -13%;
+position: absolute;
+
+}
+
+.botão-main:hover{
+    background: #4CB538;
+}
+
+    
